@@ -1,1 +1,1 @@
-print("kaki3")
+print("100")
